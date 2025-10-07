@@ -12,4 +12,3 @@ spec:
   selector:
     app: hello-world-go
   type: NodePort 
-   

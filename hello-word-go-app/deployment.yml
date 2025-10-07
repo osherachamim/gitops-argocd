@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: osherachamim/hello-world-go:latest
+        image: osherachamim/hello-world-go:v1
         ports:
         - containerPort: 8080
